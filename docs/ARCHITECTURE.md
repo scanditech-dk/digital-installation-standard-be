@@ -3,12 +3,13 @@
 ## High-Level Components
 
 1. Web Application (Customer)
-2. Web Admin Application (ScandiTech)
-3. Backend API
-4. Rule Engine Module
-5. PostgreSQL Database
-6. File Storage (S3-compatible)
-7. PDF Generation Service
+2. Mobile Application (Customer)
+3. Web Admin Application (ScandiTech)
+4. Backend API
+5. Rule Engine Module
+6. PostgreSQL Database
+7. File Storage (S3-compatible)
+8. PDF Generation Service
 
 ---
 
